@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Coder-Abhijit-1
-- 👀 I’m interested in Data analysts 
-- 🌱 I’m currently learning B Tech 
-- 💞️ I’m looking to collaborate on Video Editing and Color Grading
+- 👀 I’m interested in Android
+- 🌱 I’m currently Pursuing B Tech 
 - 📫 How to reach me via instagram or Linkdin
 - 😄 Pronouns: he/him
 
